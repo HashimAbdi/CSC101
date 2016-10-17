@@ -5,12 +5,12 @@ import javafx.scene.control.Alert.AlertType;
 import java.util.Optional;
 
 
-public class Rectangle  extends Application {
+public class Rectangle  extends Application 
+{
 
-	
-	@Override
-	
-	public void start(Stage primaryStage) {
+	@Override	
+	public void start(Stage primaryStage) 
+	{
 	
 	TextInputDialog dialog = new TextInputDialog();	
 	dialog.setHeaderText("Input width and hieght of the rectangle seperated by space");
@@ -29,4 +29,7 @@ public class Rectangle  extends Application {
 	alert.setContentText(" the perimeter of the rectangle is " + perimeter + "\nThe area of the rectangle is " + area);		
 	alert.showAndWait();
 	}
+
+
+
 }
