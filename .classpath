@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="chapter3/src"/>
+	<classpathentry kind="src" path="DelimitersScanner/src"/>
+	<classpathentry kind="src" path="Echo/src"/>
+	<classpathentry kind="src" path="EnterYourName/src"/>
+	<classpathentry kind="src" path="EnterYourName2/src"/>
+	<classpathentry kind="src" path="FindAverage2/src"/>
+	<classpathentry kind="src" path="FindTheAverage/src"/>
+	<classpathentry kind="src" path="GroupSize/src"/>
+	<classpathentry kind="src" path="IF_JOptionPaneDemo/src"/>
+	<classpathentry kind="src" path="javaFX/src"/>
+	<classpathentry kind="src" path="javafxDemo/src"/>
+	<classpathentry kind="src" path="JOptionPaneLocation/src"/>
+	<classpathentry kind="src" path="midtermreview/src"/>
+	<classpathentry kind="src" path="moneyPractice/src"/>
+	<classpathentry kind="src" path="Months/src"/>
+	<classpathentry kind="src" path="PatternMaterDemo/src"/>
+	<classpathentry kind="src" path="practice/src"/>
+	<classpathentry kind="src" path="Rectangle/src"/>
+	<classpathentry kind="src" path="tictactoe/src/tictactoe"/>
+	<classpathentry kind="src" path="tictactoe/ticttactoe"/>
+	<classpathentry kind="src" path="tictactoe2/src"/>
+	<classpathentry kind="src" path="UsernameandPassword/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="CreditCard/bin"/>
+</classpath>
